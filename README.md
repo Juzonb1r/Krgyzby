@@ -4,7 +4,9 @@
 
 ## 🎯 Play Online
 
-Deployed on AWS CloudFront for fast global access.
+**Play here:** https://juzonb1r.github.io/Krgyzby/
+
+Deployed on GitHub Pages for fast global access.
 
 ## 🕹️ Controls
 
